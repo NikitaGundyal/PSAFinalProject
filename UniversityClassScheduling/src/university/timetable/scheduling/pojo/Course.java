@@ -1,4 +1,5 @@
 package university.timetable.scheduling.pojo;
+import java.util.ArrayList;
 
 public class Course {
 
